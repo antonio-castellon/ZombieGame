@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	package
+		ADDED from AndroidManifest.xml:2:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:sharedUserLabel
+		ADDED from AndroidManifest.xml:5:5
+	android:versionName
+		ADDED from AndroidManifest.xml:4:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+uses-sdk
+ADDED from AndroidManifest.xml:8:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:10:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:11:5
+	android:label
+		ADDED from AndroidManifest.xml:11:82
+	android:allowBackup
+		ADDED from AndroidManifest.xml:11:18
+	android:icon
+		ADDED from AndroidManifest.xml:11:45
+	android:theme
+		ADDED from AndroidManifest.xml:11:115
+activity#com.gmail.castellon.antonio.zombiegame.MainActivity
+ADDED from AndroidManifest.xml:12:13
+	android:label
+		ADDED from AndroidManifest.xml:12:90
+	android:name
+		ADDED from AndroidManifest.xml:12:23
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:13:17
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:14:21
+	android:name
+		ADDED from AndroidManifest.xml:14:31
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:15:21
+	android:name
+		ADDED from AndroidManifest.xml:15:29
